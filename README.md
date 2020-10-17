@@ -2,7 +2,7 @@
 
 Super Mario Bros is a well known video game that was created by Nintendo in 1985. This game is an android clone of Super Mario Bros with a Winter theme that I designed.
 This game began as a personal project to learn android programming and replicate the first Super Mario Bros video game. 
-Although, instead of completely replicating the game, this became my redesigned version of Mario's world. 
+Although, instead of completely replicating the game, this became my redesigned version of Mario's world. The game is currently not completely finished but this is a working demo of the application. 
 
 
 Check out the images below of the menu screen and the gameplay screen
